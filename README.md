@@ -1,1 +1,1 @@
-# Flask React Skeleton
+# Flask React Template
